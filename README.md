@@ -125,9 +125,9 @@ MCP (Model Context Protocol) servers extend Claude Code with external data and A
 
 ## Articles & Tutorials
 
-- [Claude Code Skills Are Blowing Up](https://spinov001-art.github.io) — Trending skills analysis
-- [The Ultimate Guide to MCP Servers](https://spinov001-art.github.io) — How MCP works
-- [Anthropic Just Open-Sourced MCP](https://spinov001-art.github.io) — 130+ MCP servers
+- [Claude Code Skills Are Blowing Up](https://github.com/spinov001-art) — Trending skills analysis
+- [The Ultimate Guide to MCP Servers](https://github.com/spinov001-art) — How MCP works
+- [Anthropic Just Open-Sourced MCP](https://github.com/spinov001-art) — 130+ MCP servers
 
 ## Related Lists
 
