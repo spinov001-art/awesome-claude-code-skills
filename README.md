@@ -157,7 +157,7 @@ Know a great Claude Code skill or MCP server? Open an issue or PR!
 
 I build **production-ready scrapers, APIs, and automation tools** — 78+ deployed on Apify, 270+ open-source repos.
 
-📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your project, get a free estimate in 2 hours.
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — **$250 flat rate, 48h delivery.** Describe your project, get a free estimate in 2 hours.
 
 🔧 **[Browse 78+ ready-made tools on Apify →](https://apify.com/knotless_cadence)**
 
