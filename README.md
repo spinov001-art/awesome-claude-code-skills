@@ -155,10 +155,10 @@ Know a great Claude Code skill or MCP server? Open an issue or PR!
 
 ## Need Custom AI Tools or Scrapers?
 
-I build **production-ready scrapers, APIs, and automation tools** — 88+ deployed on Apify, 270+ open-source repos.
+I build **production-ready scrapers, APIs, and automation tools** — 78+ deployed on Apify, 270+ open-source repos.
 
 📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your project, get a free estimate in 2 hours.
 
-🔧 **[Browse 88+ ready-made tools on Apify →](https://apify.com/knotless_cadence)**
+🔧 **[Browse 78+ ready-made tools on Apify →](https://apify.com/knotless_cadence)**
 
 *Last updated: April 2026*
