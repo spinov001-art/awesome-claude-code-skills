@@ -101,6 +101,9 @@ MCP (Model Context Protocol) servers extend Claude Code with external data and A
 
 > Full list: [Awesome MCP Tools 2026](https://github.com/spinov001-art/awesome-mcp-tools-2026) — 130+ MCP servers
 
+**Blockchain & Payments**
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring for Solana agent wallets. Verify wallet identity before x402 micropayments. Free: `score_agent`, `preflight_check`. Paid: `get_trust_receipt` (x402). Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Agent Communication
 
 | Tool | Description | Stars |
