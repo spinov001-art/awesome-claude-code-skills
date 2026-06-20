@@ -76,6 +76,7 @@ MCP (Model Context Protocol) servers extend Claude Code with external data and A
 | [github-mcp](https://github.com/github/github-mcp-server) | — | GitHub operations (repos, PRs, issues) |
 | [notion-mcp](https://github.com/makenotion/notion-mcp-server) | — | Notion workspace integration |
 | [firecrawl-mcp](https://github.com/mendableai/firecrawl-mcp) | — | Web scraping as an MCP tool |
+| [ax](https://github.com/Necmttn/ax) | 33+ | Read-only MCP server for querying local Claude Code/Codex sessions, tool calls, skills, costs, hooks, and workflow recall |
 
 ### By Category
 
