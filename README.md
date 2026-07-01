@@ -55,6 +55,7 @@
 | Web Scraper | Build scrapers with error handling | Custom |
 | Data Pipeline | ETL pipeline generation | Community |
 | API Client | Generate typed API clients from OpenAPI specs | Community |
+| [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet) | Native Hermes Agent X/Twitter plugin with read-first workflows and approval-gated actions | Xquik |
 
 ### Presentations & Reports
 | Skill | Description | Author |
