@@ -42,6 +42,7 @@
 | Blog Post Generator | Create dev blog posts with SEO optimization | Community |
 | Documentation | Auto-generate docs from codebase | Community |
 
+| [linkedin-growth](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin-growth) | Import leads from LinkedIn or Sales Navigator searches, qualify them against an ideal-customer profile, schedule safe connection invites across accounts, track acceptances, and withdraw stale pending requests. | Linked API |
 ### DevOps & Deployment
 | Skill | Description | Author |
 |-------|-------------|--------|
