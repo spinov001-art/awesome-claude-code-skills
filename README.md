@@ -42,6 +42,7 @@
 | Blog Post Generator | Create dev blog posts with SEO optimization | Community |
 | Documentation | Auto-generate docs from codebase | Community |
 
+| [linkedin-skills](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) | Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf. | Linked API |
 ### DevOps & Deployment
 | Skill | Description | Author |
 |-------|-------------|--------|
