@@ -25,6 +25,7 @@
 |------|-------|-------------|
 | [slavingia/skills](https://github.com/slavingia/skills) | 2,245+ | Claude Code skills from The Minimalist Entrepreneur |
 | [anthropics/claude-code-examples](https://github.com/anthropics/claude-code) | — | Official Claude Code documentation |
+| [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | 2,900+ | Open-source SEO, GEO/AEO, and paid-ads skills; ship Google Search Console MCP, Google Analytics (GA4) MCP, Google Ads MCP, and Meta Ads MCP servers for live data |
 
 ## Individual Skills
 
