@@ -5,6 +5,7 @@
 **The Claude Code ecosystem exploded in March 2026.** Skills repos are gaining 1,000+ stars per week. This list tracks the best ones.
 
 ---
+| [statsnet-mcp](https://github.com/usenetstate/statsnet-mcp) | — | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet` |
 
 ## Contents
 
